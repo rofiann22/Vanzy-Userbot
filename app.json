@@ -1,6 +1,6 @@
 {
-  "name": "Kyy-Userbot",
-  "description": "KYY-USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
+  "name": "Vanzy-Userbot",
+  "description": "VANZY-USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
   "logo": "https://telegra.ph/file/d1b37552917a932acf672.jpg",
   "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/muhammadrizky16/Kyy-Userbot/Kyy-Userbot",
-  "telegram": "https://t.me/IDnyaKosong",
-  "success_url": "https://t.me/ahhsudahlahhh",
+  "repository": "https://github.com/rofiann22/Vanzy-Userbot/Vanzy-Userbot",
+  "telegram": "https://t.me/rofiaan",
+  "success_url": "https://t.me/yaauudahiya",
   "stack": "container",
   "env": {
     "API_KEY": {
@@ -86,7 +86,7 @@
     },
     "DEFAULT_BIO": {
       "description": "Default Bio Mu.",
-      "value": "✨Kyy-Userbot✨",
+      "value": "✨Vanzy-Userbot✨",
       "required": false
     },
     "ALIVE_NAME": {
@@ -98,9 +98,9 @@
       "value": "https://telegra.ph/file/d1b37552917a932acf672.jpg",
       "required": false
     },
-    "KYY_TEKS_KUSTOM": {
+    "VANZY_TEKS_KUSTOM": {
       "description": "Kustom Pesan Alive Mu Untuk Perintah .kyyalive (Isi Terserah)",
-      "value": "I'am Using Kyy-Userbot ✨",
+      "value": "I'am Using Vanzy-Userbot ✨",
       "required": false 
     },
     "S_PACK_NAME": {
